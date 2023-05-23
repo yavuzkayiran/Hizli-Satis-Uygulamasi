@@ -1,0 +1,122 @@
+C:\Users\X550\Desktop\VisualStudioProject\HizliSatis\HizliSatis\obj\Debug\HizliSatis.csprojResolveAssemblyReference.cache
+C:\Users\X550\Desktop\VisualStudioProject\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Properties.Resources.resources
+C:\Users\X550\Desktop\VisualStudioProject\HizliSatis\HizliSatis\obj\Debug\HizliSatis.csproj.GenerateResource.cache
+C:\Users\X550\Desktop\VisualStudioProject\HizliSatis\HizliSatis\obj\Debug\HizliSatis.csproj.CoreCompileInputs.cache
+C:\Users\X550\Desktop\VisualStudioProject\HizliSatis\HizliSatis\bin\Debug\HizliSatis.exe.config
+C:\Users\X550\Desktop\VisualStudioProject\HizliSatis\HizliSatis\bin\Debug\HizliSatis.exe
+C:\Users\X550\Desktop\VisualStudioProject\HizliSatis\HizliSatis\bin\Debug\HizliSatis.pdb
+C:\Users\X550\Desktop\VisualStudioProject\HizliSatis\HizliSatis\obj\Debug\HizliSatis.exe
+C:\Users\X550\Desktop\VisualStudioProject\HizliSatis\HizliSatis\obj\Debug\HizliSatis.pdb
+C:\Users\X550\Desktop\VisualStudioProject\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Login.resources
+C:\Users\X550\Desktop\VisualStudioProject\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Forms.Main.resources
+C:\Users\X550\Desktop\VisualStudioProject\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Forms.Stok.resources
+C:\Users\X550\Desktop\VisualStudioProject\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Forms.Musteri.resources
+C:\Users\X550\Desktop\VisualStudioProject\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Forms.Tedarikci.resources
+C:\Users\X550\Desktop\VisualStudioProject\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Forms.Satis.resources
+C:\Users\X550\Desktop\VisualStudioProject\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Forms.NumerPad.resources
+C:\Users\X550\Desktop\VisualStudioProject\HizliSatis\HizliSatis\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\X550\Desktop\VisualStudioProject\HizliSatis\HizliSatis\bin\Debug\AForge.Video.dll
+C:\Users\X550\Desktop\VisualStudioProject\HizliSatis\HizliSatis\bin\Debug\AForge.dll
+C:\Users\X550\Desktop\VisualStudioProject\HizliSatis\HizliSatis\bin\Debug\AForge.Video.xml
+C:\Users\X550\Desktop\VisualStudioProject\HizliSatis\HizliSatis\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\X550\Desktop\VisualStudioProject\HizliSatis\HizliSatis\bin\Debug\AForge.xml
+C:\Users\X550\Desktop\VisualStudioProject\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Forms.Camera.resources
+C:\Users\X550\Desktop\VisualStudioProject\HizliSatis\HizliSatis\obj\Debug\HizliSatis.csproj.CopyComplete
+C:\Users\X550\Desktop\VisualStudioProject\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Forms.Settings.resources
+C:\Users\X550\Desktop\VisualStudioProject\HizliSatis\HizliSatis\bin\Debug\Newtonsoft.Json.dll
+C:\Users\X550\Desktop\VisualStudioProject\HizliSatis\HizliSatis\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\X550\Desktop\VisualStudioProject\HizliSatis\HizliSatis\bin\Debug\Newtonsoft.Json.xml
+C:\Users\X550\Desktop\VisualStudioProject\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Forms.Rapor.resources
+C:\Users\X550\Desktop\VisualStudioProject\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Forms.AddUser.resources
+C:\Users\X550\Desktop\HizliSatis\HizliSatis\bin\Debug\HizliSatis.exe.config
+C:\Users\X550\Desktop\HizliSatis\HizliSatis\bin\Debug\HizliSatis.exe
+C:\Users\X550\Desktop\HizliSatis\HizliSatis\bin\Debug\HizliSatis.pdb
+C:\Users\X550\Desktop\HizliSatis\HizliSatis\bin\Debug\Newtonsoft.Json.dll
+C:\Users\X550\Desktop\HizliSatis\HizliSatis\bin\Debug\AForge.dll
+C:\Users\X550\Desktop\HizliSatis\HizliSatis\bin\Debug\AForge.Video.xml
+C:\Users\X550\Desktop\HizliSatis\HizliSatis\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\X550\Desktop\HizliSatis\HizliSatis\bin\Debug\AForge.xml
+C:\Users\X550\Desktop\HizliSatis\HizliSatis\obj\Debug\HizliSatis.csprojResolveAssemblyReference.cache
+C:\Users\X550\Desktop\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Forms.AddUser.resources
+C:\Users\X550\Desktop\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Forms.Camera.resources
+C:\Users\X550\Desktop\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Login.resources
+C:\Users\X550\Desktop\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Forms.Main.resources
+C:\Users\X550\Desktop\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Forms.Musteri.resources
+C:\Users\X550\Desktop\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Forms.NumerPad.resources
+C:\Users\X550\Desktop\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Forms.Rapor.resources
+C:\Users\X550\Desktop\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Forms.Satis.resources
+C:\Users\X550\Desktop\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Forms.Settings.resources
+C:\Users\X550\Desktop\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Forms.Stok.resources
+C:\Users\X550\Desktop\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Forms.Tedarikci.resources
+C:\Users\X550\Desktop\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Properties.Resources.resources
+C:\Users\X550\Desktop\HizliSatis\HizliSatis\obj\Debug\HizliSatis.csproj.GenerateResource.cache
+C:\Users\X550\Desktop\HizliSatis\HizliSatis\obj\Debug\HizliSatis.csproj.CoreCompileInputs.cache
+C:\Users\X550\Desktop\HizliSatis\HizliSatis\obj\Debug\HizliSatis.csproj.CopyComplete
+C:\Users\X550\Desktop\HizliSatis\HizliSatis\obj\Debug\HizliSatis.exe
+C:\Users\X550\Desktop\HizliSatis\HizliSatis\obj\Debug\HizliSatis.pdb
+C:\Users\X550\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\bin\Debug\HizliSatis.exe.config
+C:\Users\X550\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\bin\Debug\HizliSatis.exe
+C:\Users\X550\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\bin\Debug\HizliSatis.pdb
+C:\Users\X550\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\bin\Debug\Newtonsoft.Json.dll
+C:\Users\X550\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\obj\Debug\HizliSatis.csprojResolveAssemblyReference.cache
+C:\Users\X550\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Forms.AddUser.resources
+C:\Users\X550\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Forms.Camera.resources
+C:\Users\X550\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Login.resources
+C:\Users\X550\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Forms.Main.resources
+C:\Users\X550\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Forms.Musteri.resources
+C:\Users\X550\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Forms.NumerPad.resources
+C:\Users\X550\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Forms.Rapor.resources
+C:\Users\X550\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Forms.Satis.resources
+C:\Users\X550\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Forms.Settings.resources
+C:\Users\X550\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Forms.Stok.resources
+C:\Users\X550\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Forms.Tedarikci.resources
+C:\Users\X550\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Properties.Resources.resources
+C:\Users\X550\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\obj\Debug\HizliSatis.csproj.GenerateResource.cache
+C:\Users\X550\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\obj\Debug\HizliSatis.csproj.CoreCompileInputs.cache
+C:\Users\X550\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\obj\Debug\HizliSatis.csproj.CopyComplete
+C:\Users\X550\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\obj\Debug\HizliSatis.exe
+C:\Users\X550\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\obj\Debug\HizliSatis.pdb
+C:\Users\Abdurrahman Kayahan\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\bin\Debug\HizliSatis.exe.config
+C:\Users\Abdurrahman Kayahan\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\bin\Debug\HizliSatis.exe
+C:\Users\Abdurrahman Kayahan\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\bin\Debug\HizliSatis.pdb
+C:\Users\Abdurrahman Kayahan\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Abdurrahman Kayahan\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\obj\Debug\HizliSatis.csprojAssemblyReference.cache
+C:\Users\Abdurrahman Kayahan\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Forms.AddUser.resources
+C:\Users\Abdurrahman Kayahan\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Forms.Camera.resources
+C:\Users\Abdurrahman Kayahan\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Login.resources
+C:\Users\Abdurrahman Kayahan\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Forms.Main.resources
+C:\Users\Abdurrahman Kayahan\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Forms.Musteri.resources
+C:\Users\Abdurrahman Kayahan\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Forms.NumerPad.resources
+C:\Users\Abdurrahman Kayahan\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Forms.Rapor.resources
+C:\Users\Abdurrahman Kayahan\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Forms.Satis.resources
+C:\Users\Abdurrahman Kayahan\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Forms.Settings.resources
+C:\Users\Abdurrahman Kayahan\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Forms.Stok.resources
+C:\Users\Abdurrahman Kayahan\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Forms.Tedarikci.resources
+C:\Users\Abdurrahman Kayahan\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Properties.Resources.resources
+C:\Users\Abdurrahman Kayahan\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\obj\Debug\HizliSatis.csproj.GenerateResource.cache
+C:\Users\Abdurrahman Kayahan\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\obj\Debug\HizliSatis.csproj.CoreCompileInputs.cache
+C:\Users\Abdurrahman Kayahan\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\obj\Debug\HizliSatis.csproj.CopyComplete
+C:\Users\Abdurrahman Kayahan\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\obj\Debug\HizliSatis.exe
+C:\Users\Abdurrahman Kayahan\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\obj\Debug\HizliSatis.pdb
+C:\Users\yavuz\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\bin\Debug\HizliSatis.exe.config
+C:\Users\yavuz\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\bin\Debug\HizliSatis.exe
+C:\Users\yavuz\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\bin\Debug\HizliSatis.pdb
+C:\Users\yavuz\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yavuz\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\obj\Debug\HizliSatis.csproj.AssemblyReference.cache
+C:\Users\yavuz\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Forms.AddUser.resources
+C:\Users\yavuz\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Forms.Camera.resources
+C:\Users\yavuz\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Login.resources
+C:\Users\yavuz\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Forms.Main.resources
+C:\Users\yavuz\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Forms.Musteri.resources
+C:\Users\yavuz\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Forms.NumerPad.resources
+C:\Users\yavuz\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Forms.Rapor.resources
+C:\Users\yavuz\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Forms.Satis.resources
+C:\Users\yavuz\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Forms.Settings.resources
+C:\Users\yavuz\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Forms.Stok.resources
+C:\Users\yavuz\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Forms.Tedarikci.resources
+C:\Users\yavuz\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\obj\Debug\HizliSatis.Properties.Resources.resources
+C:\Users\yavuz\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\obj\Debug\HizliSatis.csproj.GenerateResource.cache
+C:\Users\yavuz\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\obj\Debug\HizliSatis.csproj.CoreCompileInputs.cache
+C:\Users\yavuz\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\obj\Debug\HizliSatis.csproj.CopyComplete
+C:\Users\yavuz\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\obj\Debug\HizliSatis.exe
+C:\Users\yavuz\Desktop\hızlı satıs 2021\HizliSatis\HizliSatis\obj\Debug\HizliSatis.pdb

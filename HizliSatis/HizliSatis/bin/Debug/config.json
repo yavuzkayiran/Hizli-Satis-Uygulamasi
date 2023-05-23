@@ -1,0 +1,10 @@
+{
+  "DataBaseName": "ASUS",
+  "MaximumHizliSatisSayisi": "15",
+  "SutunSayisi": "4",
+  "HizliSatisButonlariniGoster": "True",
+  "UrunResimleriniListedeGoster": "True",
+  "AdetGirisindeNumpadKullan": "True",
+  "BaslangictaFisOlustur": "False",
+  "FaturaId": -1
+}
